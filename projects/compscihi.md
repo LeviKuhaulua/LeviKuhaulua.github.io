@@ -42,4 +42,4 @@ And much more!
 - Develop the layout for certain pages for the Login and Signup form
 
 <b>Link</b>: [https://compscihi.com/about](https://compscihi.com/about)
-</hr> 
+ 
