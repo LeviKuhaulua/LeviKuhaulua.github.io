@@ -36,7 +36,15 @@
       "startDate": "2024-08-24",
       "endDate": "Present",
       "courses": [ "Discrete Math", "Algorithms", "Intro to Software Engineering" ]
-    }
+    }, 
+    {
+      "institution": "Hawaiʻi Pacific University, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2022-09-01",
+      "endDate": "2024-05-31",
+      "courses": [ "Data Communications", "Computer Organizations" ]
+    } 
   ],
   "work": [
     {
