@@ -9,8 +9,8 @@
     "summary": "Aloha mai kākou. I am studying for my BA in Computer Science and am passionate about web development.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/LeviKuhaulua" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/levi-kuhaulua" }
+      { "network": "github", "username": "LeviKuhaulua", "url": "http://github.com/LeviKuhaulua" },
+      { "network": "linkedin", "username": "levi-kuhaulua", "url": "http://linkedin.com/in/levi-kuhaulua" }
     ]
   },
   "interests": [
