@@ -1,113 +1,84 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Levi Kuhaulua",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "picture": "https://avatars.githubusercontent.com/u/126765430?s=400&u=e0031a661d3f3e27477a3a692b062d96cd1b4973&v=4",
+    "email": "leviak@hawaii.edu",
+    "phone": "808-397-0447",
+    "website": "https://levikuhaulua.github.io",
+    "summary": "Aloha mai kākou. I am studying for my BA in Computer Science and am passionate about web development.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "mmaluhia", "url": "http://github.com/LeviKuhaulua" },
+      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/levi-kuhaulua" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Web Development" },
+    { "name": "Fishing" },
+    { "name": "Hawaiian Culture" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Python", "JavaScript", "TypeScript", "Django", "React"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows", "Git/Github", "Make", "Powershell", "CMD"]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "University of Hawaii at Mānoa, Honolulu, HI",
+      "area": "Computer Science (expected Spring 2026)",
+      "studyType": "B.A.",
+      "startDate": "2024-08-24",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": [ "Discrete Math", "Algorithms", "Intro to Software Engineering" ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Kalakaua Middle School",
+      "position": "Multimedia Center Technician (eSports)",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2024-08-15",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Responsible for maintaining and troubleshooting all equipment and accounts in eSports arena.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Currently integrating a server to manage all devices within eSports arena",
+        "Leading a group of student workers to help manage and operate eSports"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "company": "Farrington High School",
+      "position": "PPT AVID Tutor",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "2022-10-01",
+      "endDate": "Present",
+      "summary": "Assist students with their homework problems and help them with applying to college.",
+      "highlights": [ "Answer students' questions regarding the college app process and scholarship app process" ]
+    }, 
+    {
+      "company": "Hawaiʻi Pacific University",
+      "position": "Technical Analyst Assistant",
+      "website": "https://www.hpu.edu/its/index.html",
+      "startDate": "2022-10-01",
+      "endDate": "2024-05-01",
+      "summary": "Serve as the first point of contact for issues submitted by students and faculty of HPU",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Created over 30 pages of documentation for users and other technicians",
+        "Boosted teacher and student satisfaction by resolving over 1200 tickets"
       ]
-    }
+    } 
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Dean's List",
+      "date": "Fall 2024",
+      "awarder": "University of Hawaiʻi at Mānoa",
+      "summary": "For full-time students who maintained a 3.5 GPA and above"
     }
   ],
   "references": [
