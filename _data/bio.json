@@ -6,7 +6,7 @@
     "email": "leviak@hawaii.edu",
     "phone": "808-397-0447",
     "website": "https://levikuhaulua.github.io",
-    "summary": "Aloha mai kākou. I am studying for my BA in Computer Science and am passionate about web development.",
+    "summary": "Aloha mai kākou. I am studying for my BA in Computer Science and am expected to graduate in Spring 2026. After I graduate, I hope to get a job in web development.",
     "location": { "address": "1309A Konia St", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "LeviKuhaulua", "url": "http://github.com/LeviKuhaulua" },
@@ -15,7 +15,8 @@
   },
   "interests": [
     { "name": "Web Development" },
-    { "name": "App Development" }
+    { "name": "App Development" }, 
+    { "name": "Cybersecurity"}
   ],
   "skills": [
     {
