@@ -7,7 +7,7 @@
     "phone": "808-397-0447",
     "website": "https://levikuhaulua.github.io",
     "summary": "Aloha mai kākou. I am studying for my BA in Computer Science and am passionate about web development.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "1309A Konia St", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "LeviKuhaulua", "url": "http://github.com/LeviKuhaulua" },
       { "network": "linkedin", "username": "levi-kuhaulua", "url": "http://linkedin.com/in/levi-kuhaulua" }
