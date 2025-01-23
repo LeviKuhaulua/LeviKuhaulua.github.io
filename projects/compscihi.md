@@ -15,31 +15,16 @@ summary: "Compscihi is a job portal specifically for UH Mānoa students to help 
 <img class="img-fluid" src="../img/compscihi_logo.jpg">
 
 <hr>
-The club that I am apart of, 8bit, is a Web Development club that helps students develop and improve their skills in web development and software engineering. As a member of 8bit, I got to learn about the following:
 
-- Software Development Life Cycle
-- Project management
-- Tech stacks popular in web development
+The web development club that I am apart of, 8Bit, created this project as a way to help the ICS community at UH. 
+Compscihi is a website that is open to UH Mānoa students to help them find and apply to tech related jobs. When a student goes 
+onto the portal, they will see vital information about that job such as: job type, job location, description, preferred qualifications, application link, and so much more!
 
+My role in the Compscihi project was to develop user-friendly components in React + TypeScript that were also responsive. Particularly, I worked on the footer and opportunity (individual) component. Another contribution that I got to do was to help design the layout for the login and sign in page. 
 
-Our project, <b>Compscihi</b>, is a project that we think can help the community here at UH Mānoa. Specifically, this project allows students to go on and see 
-job postings that companies are publishing and where to apply for those opportunities. 
+This project helped me get initial exposure to popular web development frameworks such as React and Django that help developers today make web applications. Not only that, these projects helped me gain knowledge in other concepts for software development, things like CI and CD pipelines via Github Actions to automate how we deploy and push code is something that I think is super vital to understand as a developer that isn't really encountered in schools until you reach the higher level courses. 
 
-Students would be able to see a lot of helpful information such as: 
+**Links:**
 
-- Job Type (Remote, Hybrid, In-Person)
-- Job Description
-- Benefits
-- Preferred Qualifications
-- Skills
-- Where to Apply
-
-And much more! 
-
-<b>My contributions</b>
-
-- Designed responsive and user-friendly components in React
-- Develop the layout for certain pages for the Login and Signup form
-
-<b>Link</b>: [https://compscihi.com/about](https://compscihi.com/about)
- 
+- Source Code: [https://github.com/8bitUHM/compscihi](https://github.com/8bitUHM/compscihi)
+- See Website: [https://compscihi.com](https://compscihi.com)
