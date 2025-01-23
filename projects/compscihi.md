@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/compscihi_logo.jpg
 title: "Compscihi"
-date: 2024-12-31
+date: 2024-10-08
 published: true
 labels:
   - Python (Django)
