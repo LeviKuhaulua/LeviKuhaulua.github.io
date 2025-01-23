@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/FHS-logo.jpg
+image: img/FHS_logo.jpg
 title: "Farrington Academics"
 date: 2024-12-31
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "Promoting the Advanced Placement program at Farrington High School to motivate students to apply for college level classes."
 ---
 
-<img class="img-fluid" src="../img/FHS-logo.jpg">
+<img class="img-fluid" src="../img/FHS_logo.jpg">
 
 <hr>
 

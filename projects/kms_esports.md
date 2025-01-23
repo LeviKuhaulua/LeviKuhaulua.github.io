@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/kms-logo.jpg
+image: img/kms_logo.jpg
 title: "KMS eSports Re-design"
 date: 2024-12-31
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "Integrating a server to streamline management for all eSports equipment and accounts."
 ---
 
-<img class="img-fluid" src="../img/kms-logo.jpg">
+<img class="img-fluid" src="../img/kms_logo.jpg">
 
 
 <hr>
