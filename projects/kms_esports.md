@@ -8,7 +8,7 @@ published: true
 labels:
   - Windows Server 2025
   - Active Directory
-summary: "Integrating a server to streamline and better manage all eSports equipment and accounts"
+summary: "Integrating a server to streamline management for all eSports equipment and accounts."
 ---
 
 <img class="img-fluid" src="../img/kms-logo.jpg">
