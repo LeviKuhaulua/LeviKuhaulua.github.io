@@ -27,4 +27,4 @@ Overall, this project is helping me to refine my skills in full-stack developmen
 
 **Link(s):**
 
-- Source Code: [https://github.com/LeviKuhaulua/fhsacademics/tree/main]
+- Source Code: [https://github.com/LeviKuhaulua/fhsacademics/tree/main](https://github.com/LeviKuhaulua/fhsacademics/tree/main)
