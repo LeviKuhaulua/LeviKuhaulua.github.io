@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img class="img-fluid" src="../img/ts-git-gud.png">
+<img class="img-fluid" src="../img/ts-git-gud.png" width="300px">
 
 <hr>
 
