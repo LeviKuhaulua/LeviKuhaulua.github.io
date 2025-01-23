@@ -11,7 +11,8 @@ labels:
 summary: "Integrating a server to streamline and better manage all eSports equipment and accounts"
 ---
 
-<img class="img-fluid" src="img/kms-logo.jpg">
+<img class="img-fluid" src="../img/kms-logo.jpg">
+
 
 <hr>
 
