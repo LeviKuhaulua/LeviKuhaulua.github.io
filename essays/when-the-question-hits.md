@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "When The Question Hits"
 # All dates must be YYYY-MM-DD format!
-date: 2025-01-22
+date: 2025-01-30
 published: true
 labels:
   - Learning
