@@ -11,7 +11,7 @@ labels:
   - How-to
 ---
 
-<img class="img-fluid" src="../img/asking_good_questions.gif" height="200px">
+<img class="img-fluid" src="../img/asking_good_questions.gif" width="200px" height="200px">
 
 ## Communication Is Key
 
