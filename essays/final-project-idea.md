@@ -45,7 +45,7 @@ Using our tech stack, we can implement a web app that abstracts away the design 
 - Teachers and faculty can easily and efficiently update information on their specific course. 
 
 
-# Beyond the Basics 
+## Beyond the Basics 
 
 - Using AI, allow students to fill out a form of their general interests and strengths, and then provide them a list of recommended courses they could take. 
 
