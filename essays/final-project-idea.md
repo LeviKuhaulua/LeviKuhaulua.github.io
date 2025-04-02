@@ -8,7 +8,7 @@ labels:
     - Nextjs
 ---
 
-# Proposers
+## Proposers
 
 - Levi Kuhaulua
 - Ivan Ramel
@@ -16,17 +16,17 @@ labels:
 - James Yamada
 - Deavyn Etscheit
 
-# Overview
+## Overview
 
-## The Problem
+### The Problem
 
 At Farrington High School, they offer Advanced Placement (AP for short) courses that help prepare 9th-12th graders for college-level classes. At the end of the school year, students can take the AP exam and can earn college credit based on their score. However, it is hard to get students to apply for the various APs offered at Farrington due to the lack of marketing and promotion for them. Even though there are tools like Google Sites, it's hard for teachers and staff to utilize them as they have to learn how to use it and also understand and apply core web design principles to market their class in a stylish, informative way; which takes away time that they could use for lesson plans, grading assignments, and preparing them for the exam. 
 
-## The Solution
+### The Solution
 
 Using our tech stack, we can implement a web app that abstracts away the design aspect and allows the faculty and staff of the AP program to focus more on updating information for the AP Classes. The idea here is that trusted users can login to the app and then update class availability and information, while students can look at the website to see what classes will be offered for the upcoming school year and get a general idea of what the class is about. 
 
-# Mockup Pages 
+## Mockup Pages 
 
 1. The Landing - this is our about page that gives students, faculty, and parents the purpose of the Advanced Placement program at Farrington, while also highlighting the benefits of taking an AP Class. 
 
@@ -36,7 +36,7 @@ Using our tech stack, we can implement a web app that abstracts away the design 
 
 4. The Form - this page will be for students to provide information on their strengths and weaknesses in subjects and then after filling out the form, we will dynamically generate classes that would be best suited from their strengths. 
 
-# Use Cases
+## Use Cases
 
 - Students can use the site to find out what classes are being offered for the upcoming school year and then sign up for them if they are interested (sign-up process is manual). 
 - Students can also plan ahead by finding what classes they are interested in that require pre-requisites, and then making sure that they take those pre-requisites before the application opens for the upcoming school year. 
