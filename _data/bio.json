@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Levi Kuhaulua",
-    "label": "Student",
+    "label": "Software Engineering Intern @ Piʻikū Co.",
     "picture": "https://avatars.githubusercontent.com/u/126765430?s=400&u=e0031a661d3f3e27477a3a692b062d96cd1b4973&v=4",
     "email": "leviak@hawaii.edu",
     "phone": "808-397-0447",
@@ -21,7 +21,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Python", "JavaScript", "TypeScript", "Django", "React"]
+      "keywords": [ "Python", "JavaScript", "TypeScript", "Django", "React", "Tailwind", "Bootstrap"]
     },
     {
       "name": "Toolsets/OS",
@@ -47,6 +47,19 @@
     } 
   ],
   "work": [
+    {
+       "company": "Piʻkū Co.",
+       "position": "Software Engineering Intern",
+       "website": "https://piiku.co/",
+       "startDate": "2025-03-31",
+       "endDate": "2025-06-15",
+       "summary": "Working on a cross-functional team developing a project for Zippy's",
+       "highlights": [
+        "Using React + Tailwind to develop the project",
+        "Working with the designers and PMs to implement our project"
+       ]
+
+    },
     {
       "company": "Kalakaua Middle School",
       "position": "Multimedia Center Technician (eSports)",
