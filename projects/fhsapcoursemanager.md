@@ -30,4 +30,7 @@ We also integrated AI! We have this feature that allows students to enter their 
 
 **Link(s):**
 [Source Code](https://github.com/farringtonap/apcoursemanager)
+
+<br>
+
 [Website](https://apcoursemanager.vercel.app)
